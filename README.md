@@ -1,7 +1,6 @@
   ### Hi, I’m @Eveft03 👋
 - 📚Undergraduate Student at DUTH, Greece
 - 💡 I’m interested in web developing and design
-- 💻 I’m currently practicing HTML, CSS and Javascript
 
 
 <!---
