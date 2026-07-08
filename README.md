@@ -1,6 +1,6 @@
   ### Hi, I’m @Eveft03 👋
 - 📚Undergraduate Student at DUTH, Greece
-- 💡 I’m interested in making stuf
+- 💡 I’m interested in making stuff
 
 
 <!---
