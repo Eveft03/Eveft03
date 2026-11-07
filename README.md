@@ -1,5 +1,5 @@
   ### Hi, I’m @Eveft03 👋
-- 📚Undergraduate Student at DUTH, Greece
+- 📚Graduate Student at DUTH, Greece
 - 💡 I’m interested in making stuff
 
 
